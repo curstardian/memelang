@@ -146,3 +146,8 @@ python main.py
 
 📁 파일 확장자
 .memelang
+
+---
+
+근데 챗지피티 README 작성 좀 잘하는 듯
+-주석 다는 것도
